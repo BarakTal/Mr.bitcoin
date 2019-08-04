@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Mr.bitcoin/static/css/main.577b7a38.chunk.css",
-    "main.js": "/Mr.bitcoin/static/js/main.8ea75919.chunk.js",
-    "main.js.map": "/Mr.bitcoin/static/js/main.8ea75919.chunk.js.map",
+    "main.js": "/Mr.bitcoin/static/js/main.f68bdee4.chunk.js",
+    "main.js.map": "/Mr.bitcoin/static/js/main.f68bdee4.chunk.js.map",
     "runtime~main.js": "/Mr.bitcoin/static/js/runtime~main.1969a104.js",
     "runtime~main.js.map": "/Mr.bitcoin/static/js/runtime~main.1969a104.js.map",
     "static/js/2.7accc24c.chunk.js": "/Mr.bitcoin/static/js/2.7accc24c.chunk.js",
     "static/js/2.7accc24c.chunk.js.map": "/Mr.bitcoin/static/js/2.7accc24c.chunk.js.map",
     "index.html": "/Mr.bitcoin/index.html",
-    "precache-manifest.5475cea84a849291c487ff84a89e7a99.js": "/Mr.bitcoin/precache-manifest.5475cea84a849291c487ff84a89e7a99.js",
+    "precache-manifest.74c37c7b97a7f54bcf6c938a2249fb06.js": "/Mr.bitcoin/precache-manifest.74c37c7b97a7f54bcf6c938a2249fb06.js",
     "service-worker.js": "/Mr.bitcoin/service-worker.js",
     "static/css/main.577b7a38.chunk.css.map": "/Mr.bitcoin/static/css/main.577b7a38.chunk.css.map"
   }
